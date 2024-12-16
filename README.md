@@ -3,6 +3,7 @@ Yemeksepeti Yey! staj programı için sorulan case çalışmasıdır.
 
 
 [ENG]
+
 Overview
 
 This project involves analyzing a dataset to extract actionable insights and redesigning its flow to address identified pain points. The objective is to improve user experience, applicability, and efficiency based on data-driven decisions.
